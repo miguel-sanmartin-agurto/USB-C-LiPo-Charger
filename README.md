@@ -26,11 +26,8 @@ The circuit is intentionally simple, requiring only the charge controller, a USB
 
 The Gerbers files (`.gbr` and `.drl`) needed to manufacture this PCB are located in the `/gerbers` directory of this repository. You can upload the `.zip` file from that folder directly to any PCB manufacturer (like JLCPCB, PCBWay, etc.).
 
-<<<<<<< HEAD
+
 * **PCB Dimensions:** [12mm x 28.5mm]
-=======
-* **PCB Dimensions:** [13mm x 26.5mm]
->>>>>>> 7d117bfd03760160a18be7479f4834133a8773e7
 * **Layers:** 2 (Top and Bottom)
 * **Default Copper:** 1 oz/ft²
 
